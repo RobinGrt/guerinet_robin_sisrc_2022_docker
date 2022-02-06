@@ -63,7 +63,7 @@ app.get('/', (req, res) => {
 })
 mongoose
   .connect(
-    'mongodb://mongo/messageNode', {useNewUrlParser: true}
+    'mongodb://mongodb:27017/messageNode', {useNewUrlParser: true}
   )
   .then(result => {
     app.listen(8080);
