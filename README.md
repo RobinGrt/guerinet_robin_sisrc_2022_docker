@@ -8,7 +8,7 @@ Créer un compte DockerHub
 
 ## Repository GitHub
 
-Download son repository dans PowerShell
+Download son repository dans PowerShell ou CMD
 
 ```console
 gh repo clone RobinGrt/guerinet_robin_sisrc_2022_docker
