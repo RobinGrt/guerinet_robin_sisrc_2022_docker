@@ -30,8 +30,6 @@ Rentrer l'adresse pour se connecter en local :
 http://localhost:3000
 ```
 
-## MongoDB
-
 ### Créer un compte et s'y connecter
 
 Cliquer sur `Sign UP` puis `Login`
