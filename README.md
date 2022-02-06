@@ -30,8 +30,12 @@ Rentrer l'adresse pour se connecter en local :
 http://localhost:3000
 ```
 
-## Créer un compte et s'y connecter
+##MongoDB
+
+### Créer un compte et s'y connecter
 
 Cliquer sur `Sign UP` puis `Login`
+
+### Créer un post
 
 Enfin, créer un post en cliquant sur `New Post`
